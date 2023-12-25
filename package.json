@@ -1,6 +1,6 @@
 {
   "name": "test-app",
-  "homepage": "https://Mefix69.github.io/test-repository/",
+  "homepage": "https://ibragim745.github.io/test-repository/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d build"
   },
   "repository": {
-    "url": "https://github.com/Mefix69/test-repository"
+    "url": "https://github.com/ibragim745/test-repository"
   },
   "eslintConfig": {
     "extends": [
